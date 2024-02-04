@@ -11,7 +11,7 @@ Dataset :-  https://www.kaggle.com/gti-upm/leapgestrecog
 
 Getting Started
 Clone the repository:
-git clone https://github.com/manisha-31/PRODIGY_ML_04.git
+git clone https://github.com/rog-mithun/PRODIGY_ML_04.git
 
 Install dependencies:
 pip install -r requirements.txt
